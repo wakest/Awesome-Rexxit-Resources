@@ -12,18 +12,16 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 ## Official Sites
 - [Lemmy](https://join-lemmy.org/)
 - [kbin](https://kbin.pub/en)
-- [Tildes](https://tildes.net/)
 
 ## Apps
 - [Jerboa](https://github.com/dessalines/jerboa) (Android, Lemmy Only)
 - [Mlem](https://github.com/buresdv/Mlem) (iOS, Lemmy Only, beta testing)
 - [Memmy](https://github.com/gkasdorf/memmy) (iOS, Lemmy Only, beta testing)
-- [Backtick](https://tildes.net/~tildes/15xb/looking_for_beta_testers_for_my_tildes_net_ios_app) (iOS, Tildes Only, beta testing)
 - TBD kbin app from @developerjustin@mastodon.social (iOS, kbin Only, in development) - I've had a chat with the dev of this as-yet-unnamed app, but it's not ready for testing yet.
-- [Kmoon](https://kbin.social/m/kmoon) (x-plat, [kbin and Lemmy](https://tech.lgbt/@hariette/110545151572492176))
+- [Artemis](https://kbin.social/m/ArtemisApp) (unreleased, [kbin and Lemmy](https://tech.lgbt/@hariette/110545151572492176))
 - [Remmel](https://github.com/uuttff8/Remmel) (iOS, Lemmy Only)
 - [Thunder](https://github.com/hjiangsu/thunder) (Android, iOS via AltStore, Lemmy)
-- [Morpha](https://gitlab.com/spersinger/morpha) (x-plat, Lemmy, in development)
+- [Morpha](https://gitlab.com/spersinger/morpha) (unreleased, Lemmy, in development)
 - [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since Sync for Reddit was Android, assuming Lemmy Only, in development)
 
 ### No Longer Maintained/Abandoned
@@ -63,6 +61,3 @@ A Lemmy Community is most easily compared to a subreddit. kbin calls Communities
 - [kbinStyles Magazine](https://kbin.social/m/kbinStyles) for custom CSS and JS to help improve your Kbin experience!
 - [Lemmy Deep Rounded](https://userstyles.world/style/10401/lemmy-deep-rounded) (custom CSS via Stylus)
 - [Kbin Link](https://github.com/daniel-lxs/kbin-link) (browser extension) This extension looks for Lemmy style communities and replaces them to direct you to seeing that community on your kbin instance.
-
-## Transparency Thoughts
-While this page outlines info about both Lemmy and kbin (and Tildes), I feel obligated to at least mention some of the reports of Lemmy's older users and devs being unfriendly towards human rights. [@feditips@mstdn.social](https://mstdn.social/@feditips) has a [writeup about it here](https://mstdn.social/@feditips/106835057054633379#.). I am not here to verify, dispute, or lay any other claims to Lemmy, it's community, or members. I'm just helping pass along information for those that find it useful.
