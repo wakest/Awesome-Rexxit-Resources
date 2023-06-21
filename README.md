@@ -1,4 +1,4 @@
-# Awesome Rexxit Resources
+# The Threadiverse
 Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com/tleb/awesome-mastodon) page about Mastodon info. I hope this can be a useful resource for those either looking to join Lemmy/kbin.
 
 ## Contents
