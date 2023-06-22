@@ -28,6 +28,9 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
 - [Cavy](https://github.com/avery-pierce/Cavy) (iOS)
 
+### Discussion threads about apps
+- [thread on Kbin with list of apps](https://kbin.social/m/kbinMeta/t/35655/Several-iOS-apps-for-kbin-lemmy-are-now-in-development)
+
 ## kbin Instance Info
 - [Fediverse Observer - kbin](https://kbin.fediverse.observer/list)
 - [kbin.social](https://kbin.social/) - not listed on Fediverse Observer for some reason, possibly due to kbin.social's federation/DDOS/CloudFlare issues
